@@ -1,14 +1,6 @@
-.div3{
-    padding-left: 280px;
-    background-color: #dc3545;
-    width: 60%;
-    padding-top: 50px;
-    height: 300px;
-    
-}
 .footer{
     justify-content: space-between;
-    border: 2px double  #dc3545; position: sticky;
+    border: 2px double  #dc3545;
     display: flex;
     background-color: #dc3545;
     color: antiquewhite;
